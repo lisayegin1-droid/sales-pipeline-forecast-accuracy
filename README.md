@@ -1,4 +1,12 @@
 # Sales Pipeline & Forecast Accuracy Analysis
+![Executive Overview](screenshots/executive_overview.png)
+
+![Forecast vs Actual](screenshots/forecast_vs_actual.png)
+
+![At-Risk Deals by Stage](screenshots/at_risk_by_stage.png)
+
+
+
 
 Sales pipeline and forecast accuracy analysis using SQL queries and Power BI dashboards to identify pipeline health, stalled deals, and forecasting improvement opportunities.
 
