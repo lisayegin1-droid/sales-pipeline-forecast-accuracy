@@ -30,4 +30,28 @@ This project analyzes CRM-style sales pipeline data to evaluate forecast accurac
 ## Methodology & Assumptions
 
 - Modeled deal progression using stage entry dates to analyze time spent in each pipeline stage.
-- Calculated forecast variance at both the dea
+- Calculated forecast variance at both the deal and stage level.
+- Identified stalled deals based on extended time-in-stage (greater than 45 days).
+- Analyzed stage-level volume and outcomes to assess pipeline efficiency and risk.
+
+---
+
+## Key Insights
+
+- Late-stage opportunities drive the majority of forecast variance.
+- Deals stalled longer than 45 days show a strong correlation with reduced forecast accuracy.
+- Certain pipeline stages contain high deal volume but below-average win rates, indicating process inefficiencies.
+
+---
+
+## Recommendations
+
+- Standardize stage exit criteria for late-stage opportunities to improve forecast reliability.
+- Proactively flag stalled deals for weekly pipeline review.
+- Improve pipeline hygiene by enforcing regular close-date updates.
+
+---
+
+## Dashboard Preview
+
+Screenshots of key dashboards (executive overview, forecast vs. actual, and at-risk deals by stage) will be added to illustrate insights and visual design.
