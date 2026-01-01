@@ -1,9 +1,12 @@
 # Sales Pipeline & Forecast Accuracy Analysis
+## Executive Overview
 ![Executive Overview](screenshots/executive_overview.png)
 
+## Forecast vs Actual
 ![Forecast vs Actual](screenshots/forecast_vs_actual.png)
 
-![At-Risk Deals by Stage](screenshots/at_risk_by_stage.png)
+## At-Risk Deals by Stage
+![At-Risk Deals by Stage](screenshots/at_risk_deals_by_stage.png)
 
 
 
