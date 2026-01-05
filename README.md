@@ -29,13 +29,10 @@ This project analyzes CRM-style sales pipeline data to evaluate forecast accurac
 - What operational changes could improve forecast accuracy and decision-making?
 
 ---
-
-## Tools Used
-
-- **Power BI** – dashboard development, KPI reporting, executive-level visualizations  
-- **SQL** – basic queries, joins, and aggregations to transform CRM-style data  
-- **Excel / Power Query** – data cleaning, normalization, and preparation  
-
+ ## Tools Used
+- **Power BI** – Design and delivery of executive dashboards supporting forecast accuracy, pipeline health, and sales performance  
+- **SQL** – Analytical querying (joins, aggregations, filtering) to model and prepare CRM-style sales data for reporting  
+- **Excel / Power Query** – Data validation, normalization, and transformation to ensure data integrity and reporting accuracy
 ---
 
 ## Methodology & Assumptions
