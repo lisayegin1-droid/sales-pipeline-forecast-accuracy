@@ -60,6 +60,4 @@ This project analyzes CRM-style sales pipeline data to evaluate forecast accurac
 
 ---
 
-## Dashboard Preview
-
-Screenshots of key dashboards (executive overview, forecast vs. actual, and at-risk deals by stage) will be added to illustrate insights and visual design.
+The dashboards above provide executive-level views of forecast accuracy, pipeline health, and at-risk opportunities, supported by SQL-based analysis of CRM-style sales data.
